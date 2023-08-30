@@ -1,0 +1,10 @@
+def main():
+    a='0'
+    pal='0'
+    while a != 'exit':
+        a=input('ingrese dato')
+        pal +=(f'{a}')
+        
+
+if __name__=="__main__":
+    main()   
